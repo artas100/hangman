@@ -1,4 +1,4 @@
-# Hangman ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/artas100/:repo/:branch?style=flat)
+# Hangman ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/:user/artas100)
 
 This is a console program I made to practice python.
 
