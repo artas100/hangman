@@ -1,4 +1,5 @@
-# Hangman ![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/artas100/hangman)
+# Hangman ![GitHub commits since latest release (by SemVer including pre-releases)](https://img.shields.io/github/commits-since/artas100/hangman/1.0/:branch)
+
 
 
 This is a console program I made to practice python.
