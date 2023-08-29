@@ -1,4 +1,5 @@
-# Hangman 
+# Hangman ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/artas100/hangman)
+
 
 This is a console program I made to practice python.
 
