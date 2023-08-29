@@ -1,4 +1,5 @@
-# Hangman ![Eclipse Marketplace Last Update](https://img.shields.io/eclipse-marketplace/last-update/artas100)
+# Hangman ![Galaxy Toolshed (created date)](https://img.shields.io/galaxytoolshed/created-date/hangman/artas100)
+
 
 This is a console program I made to practice python.
 
