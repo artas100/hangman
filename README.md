@@ -2,7 +2,7 @@
 
 
 
-This is a console program I made to practice python.
+This is a console program.
 
 # Here you can:
 <!-- UL -->
