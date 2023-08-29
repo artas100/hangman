@@ -22,19 +22,19 @@ class Character:
             self.head_lvl = "°"
             self.body_lvl = ""
             self.foot_lvl = ""
-        if state > 7:
+        elif state > 7:
             self.head_lvl = "°"
             self.body_lvl = "|"
             self.foot_lvl = ""
-        if state > 6:
+        elif state > 6:
             self.head_lvl = " ° "
             self.body_lvl = "||"
             self.foot_lvl = ""
-        if state > 5:
+        elif state > 5:
             self.head_lvl = " ° "
             self.body_lvl = "-||"
             self.foot_lvl = ""
-        if state > 4:
+        elif state > 4:
             self.head_lvl = "  °  "
             self.body_lvl = "-||-"
             self.foot_lvl = ""

@@ -94,13 +94,23 @@ class Game:
                 self.interface.show_ui()
                 print("Your progress: ", " ".join(self.placeholder))
                 well = False
-                choosen = input("Your word: ")
+
+                while True:
+                    choosen = input("Your word: ")
+                    if choosen.isalpha():
+                        break
+                    else:
+                        print("Input must be letters only")
+
+                if choosen in self.given_words:
+                    return True
 
                 for i in range(len(self.target)):
                     if choosen == self.target[i]:
                         if self.placeholder[i] != self.target[i]:
                             well = True
                             self.placeholder[i] = choosen
+                            self.given_words.append(choosen)
                             self.complete += 1
 
                 if not well:
