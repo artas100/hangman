@@ -1,4 +1,4 @@
-# Hangman ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/:user/artas100)
+# Hangman ![Eclipse Marketplace Last Update](https://img.shields.io/eclipse-marketplace/last-update/artas100)
 
 This is a console program I made to practice python.
 
