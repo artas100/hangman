@@ -1,4 +1,4 @@
-# Hangman ![GitLab last commit](https://img.shields.io/gitlab/last-commit/hangman?gitlab_url=https%3A%2F%2Fgithub.com%2Fartas100%2Fhangman)
+# Hangman ![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/artas100/hangman)
 
 
 This is a console program I made to practice python.
