@@ -2,7 +2,7 @@
 
 
 
-This is a console program.
+This is a console python program.
 
 # Here you can:
 <!-- UL -->
