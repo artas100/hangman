@@ -1,4 +1,4 @@
-# Hangman
+# Hangman https://img.shields.io/github/last-commit/:user/GitArt/:branch?style=flat
 This is a console program I made to practice python.
 
 # Here you can:
