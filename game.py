@@ -144,10 +144,10 @@ class Game:
         """define the allowed attempts"""
 
         if self.difficulty == 1:
-            self.attempts = 9
+            self.attempts = 10
         elif self.difficulty == 2:
             self.attempts = 7
-        elif self.difficulty == 5:
+        elif self.difficulty == 3:
             self.attempts = 5
         else:
-            self.attempts = 3
+            self.attempts = 5
